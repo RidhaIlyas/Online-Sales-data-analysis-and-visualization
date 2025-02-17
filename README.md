@@ -1,1 +1,2 @@
 # Online-Sales-data-analysis-and-visualization
+The online_sales_data.csv dataset contains comprehensive records of online sales transactions, encompassing crucial details such as transaction IDs, product identifiers, descriptions, quantities purchased, unit prices, transaction dates, customer identifiers, and customer locations. The dataset contains 240 rows and 9 columns, each representing a unique Online sale. The data given is analysed based on some self made questions and then visualizations are done for each
